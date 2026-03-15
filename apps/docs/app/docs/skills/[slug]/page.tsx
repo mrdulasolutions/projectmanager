@@ -18,7 +18,7 @@ export default async function SkillPage({
   const copyForPerplexity = `When the user needs help with: ${skill.description}, use PM Agents style: focus on manufacturing PM workflows, clear assignees and due dates, and follow-up.`;
 
   return (
-    <article className="prose prose-slate max-w-none">
+    <article className="prose prose-slate max-w-none prose-headings:text-xom-navy prose-a:text-xom-orange prose-a:no-underline hover:prose-a:underline">
       <h1>{skill.name}</h1>
       <p className="lead">{skill.description}</p>
       <h2>When to use</h2>

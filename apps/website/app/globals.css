@@ -1,15 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --foreground: #0f172a;
-  --background: #f8fafc;
-  --accent: #0ea5e9;
-  --muted: #64748b;
+  --xom-navy: #0f172a;
+  --xom-orange: #ea580c;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
+  @apply text-slate-800 bg-white antialiased font-sans;
 }

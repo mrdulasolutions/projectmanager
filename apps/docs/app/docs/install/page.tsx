@@ -1,6 +1,6 @@
 export default function InstallPage() {
   return (
-    <article className="prose prose-slate max-w-none">
+    <article className="prose prose-slate max-w-none prose-headings:text-xom-navy prose-a:text-xom-orange prose-a:no-underline hover:prose-a:underline">
       <h1>Install &amp; setup</h1>
       <p>
         Install PM Agents skills in Cursor, Claude, or use the Copy for

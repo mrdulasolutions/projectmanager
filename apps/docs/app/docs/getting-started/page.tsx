@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function GettingStartedPage() {
   return (
-    <article className="prose prose-slate max-w-none">
+    <article className="prose prose-slate max-w-none prose-headings:text-xom-navy prose-a:text-xom-orange prose-a:no-underline hover:prose-a:underline">
       <h1>Getting started</h1>
       <p>
         PM Agents (by MR Dula Solutions / MR Dula Enterprise, LLC) provides AI

@@ -3,7 +3,7 @@ import { SKILLS } from "@/lib/skills";
 
 export default function SkillsIndexPage() {
   return (
-    <article className="prose prose-slate max-w-none">
+    <article className="prose prose-slate max-w-none prose-headings:text-xom-navy prose-a:text-xom-orange prose-a:no-underline hover:prose-a:underline">
       <h1>Skills</h1>
       <p>
         All skills are specific to manufacturing: handling orders, overseeing
