@@ -1,0 +1,7 @@
+name: pm-delegate-follow-up
+description: Delegate tasks to human workers or other agents (clear assignee, due date, acceptance criteria) and structure follow-up (check-ins, escalation paths). Use when the user needs to assign work, hand off to people or bots, or set up follow-up.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

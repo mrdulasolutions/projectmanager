@@ -1,0 +1,7 @@
+name: pm-order-handling
+description: Intake, triage, and track manufacturing orders; hand off to production or other agents; ensure order specs and due dates are clear. Use when the user is receiving orders, entering orders into systems, or coordinating order-to-production.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

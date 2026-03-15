@@ -1,0 +1,7 @@
+name: pm-post-order-follow-up
+description: Follow up after order delivery: delivery confirmation, quality feedback, returns or issues, customer/sales follow-up. Use when the user needs to confirm delivery, handle post-ship issues, or close the order loop.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

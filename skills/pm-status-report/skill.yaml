@@ -1,0 +1,7 @@
+name: pm-status-report
+description: Draft or structure project/order status reports (schedule, risks, blockers, next steps) for manufacturing contexts. Use when the user asks for status updates, report templates, or executive summaries.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

@@ -1,0 +1,43 @@
+# PM Agents — Skill manifest for discovery and tooling
+# Each skill has a folder with SKILL.md and skill.yaml
+
+skills:
+  - name: pm-order-handling
+    description: Intake, triage, and track manufacturing orders; hand off to production or other agents; ensure order specs and due dates are clear.
+    path: pm-order-handling
+
+  - name: pm-project-oversight
+    description: Oversee manufacturing projects: scope, schedule, resources, dependencies; surface risks and bottlenecks.
+    path: pm-project-oversight
+
+  - name: pm-delegate-follow-up
+    description: Delegate tasks to human workers or other agents with clear assignee, due date, acceptance criteria and follow-up structure.
+    path: pm-delegate-follow-up
+
+  - name: pm-follow-up
+    description: Proactive follow-up on open items, late deliverables, missing inputs, and overdue commitments from humans or systems.
+    path: pm-follow-up
+
+  - name: pm-human-agent-coordination
+    description: Coordinate work between real human workers and other agents; handoffs, status from people vs. systems, clear communication.
+    path: pm-human-agent-coordination
+
+  - name: pm-project-completion
+    description: Close out manufacturing projects: punch lists, sign-offs, documentation, lessons learned, handoff to support or next phase.
+    path: pm-project-completion
+
+  - name: pm-post-order-follow-up
+    description: Follow up after order delivery: delivery confirmation, quality feedback, returns or issues, customer/sales follow-up.
+    path: pm-post-order-follow-up
+
+  - name: pm-status-report
+    description: Draft or structure project/order status reports (schedule, risks, blockers, next steps) for manufacturing contexts.
+    path: pm-status-report
+
+  - name: pm-manufacturing-glossary
+    description: Standardize manufacturing terms (BOM, lead time, OEE, cycle time, etc.) for consistency in orders, projects, and reports.
+    path: pm-manufacturing-glossary
+
+  - name: pm-exchek-compliance
+    description: Work with ExChek agent skills for export/compliance; hand off PM context to compliance workflows when needed.
+    path: pm-exchek-compliance

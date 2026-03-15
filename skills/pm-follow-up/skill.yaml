@@ -1,0 +1,7 @@
+name: pm-follow-up
+description: Proactive follow-up on open items: outstanding tasks, late deliverables, missing inputs, overdue commitments from humans or systems. Use when the user needs to chase status, send reminders, or close loops.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

@@ -1,0 +1,16 @@
+{
+  "name": "pmagents",
+  "private": true,
+  "description": "PM Agents — AI skills for project managers in manufacturing",
+  "scripts": {
+    "build": "npm run build --workspaces --if-present",
+    "dev:website": "npm run dev --workspace=website",
+    "dev:docs": "npm run dev --workspace=docs",
+    "build:website": "npm run build --workspace=website",
+    "build:docs": "npm run build --workspace=docs"
+  },
+  "workspaces": ["apps/*"],
+  "engines": {
+    "node": ">=18"
+  }
+}

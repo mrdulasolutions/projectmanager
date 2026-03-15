@@ -1,0 +1,7 @@
+name: pm-human-agent-coordination
+description: Coordinate work between real human workers and other agents: handoffs, status from people vs. systems, clear communication so both stay aligned. Use when the user is managing mixed human/agent teams or hybrid workflows.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

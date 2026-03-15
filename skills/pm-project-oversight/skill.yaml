@@ -1,0 +1,7 @@
+name: pm-project-oversight
+description: Oversee manufacturing projects: scope, schedule, resources, dependencies; surface risks and bottlenecks. Use when the user is running a production run, new product launch, or capital project.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

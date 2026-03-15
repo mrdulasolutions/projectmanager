@@ -1,0 +1,7 @@
+name: pm-manufacturing-glossary
+description: Standardize manufacturing terms (BOM, lead time, OEE, cycle time, etc.) for consistency in orders, projects, and reports.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

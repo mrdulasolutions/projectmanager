@@ -1,0 +1,7 @@
+name: pm-project-completion
+description: Close out manufacturing projects: punch lists, sign-offs, documentation, lessons learned, handoff to support or next phase. Use when the user is finishing a run, phase, or project.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents

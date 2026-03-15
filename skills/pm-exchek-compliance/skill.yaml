@@ -1,0 +1,7 @@
+name: pm-exchek-compliance
+description: Work with ExChek agent skills for export/compliance: when to invoke classification, CSL screening, license, jurisdiction, or other exchek-* skills; hand off PM context (order, destination, product) to compliance workflows. Use when the user needs compliance checks on orders, exports, or projects, or wants to coordinate with ExChek skills from a PM workflow.
+license: Proprietary. MR Dula Enterprise, LLC. See skills/LICENSE.md.
+metadata:
+  author: MR Dula Enterprise, LLC
+  version: "1.0"
+compatibility: Cursor, Claude Code, Claude desktop, and other agentskills.io-compatible agents. Works alongside ExChek skills when installed.
